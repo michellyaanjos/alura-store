@@ -31,6 +31,24 @@ Este projeto de análise de dados foi criado para um desafio da formação em Da
     * Tabulate
     * Matplotlib
 
+## 📁 Estrutura do Projeto
+
+```
+📦 alura-store
+├── 📂 base-de-dados/ # Arquivos de dados utilizados na análise
+│ ├── loja_1.csv
+│ ├── loja_2.csv
+│ ├── loja_3.csv
+│ └── loja_4.csv
+│
+├── 📂 images/ # Imagens para o README
+│ └── preview.png
+│
+├── 📄 AluraStoreBrasil.ipynb # Notebook principal do projeto
+├── 📄 README.md # Documentação do projeto
+└── 📄 requirements.txt # Dependências necessárias
+```
+
 ## 🛠️ Abrir e rodar o projeto
 
 ### Com Git:
